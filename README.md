@@ -118,14 +118,11 @@ Zastosowano rozwiązanie **hybrydowe**: proste elementy wykonawcze (silniki taś
 
 **Logistyka palet** – przenośniki rolkowe i obrotnice (Turntables).
 
-![System obrotnic]
-<img width="1841" height="724" alt="image" src="https://github.com/user-attachments/assets/e1c332ff-4d62-4f8a-b53c-681aaabb06f7" />
+<img width="1850" height="743" alt="System obrotnic" src="https://github.com/user-attachments/assets/02a21ef1-6c3d-4324-8789-a15dfc061a1e" />
 
 **Magazyn wysokiego składowania** – układnica i przenośnik załadowczy.
 
-![Magazyn wysokiego składowania]
-<img width="1756" height="744" alt="image" src="https://github.com/user-attachments/assets/3b098726-bc4c-4751-b2f1-5c12ef930a93" />
-takie cos zmieniłem w read me bo grafiki był słabe i dałem teraz nowe
+<img width="1522" height="934" alt="Magazyn wysokiego składowania" src="https://github.com/user-attachments/assets/6c1edbae-9df2-4167-bb04-48aca9cc11e7" />
 
 ---
 

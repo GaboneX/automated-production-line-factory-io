@@ -29,7 +29,6 @@ Film pokazujący działanie całej linii: **https://youtu.be/9cgSY0ow9To**
 - [Struktura repozytorium](#struktura-repozytorium)
 - [Wnioski i napotkane problemy](#wnioski-i-napotkane-problemy)
 - [Możliwe usprawnienia](#możliwe-usprawnienia)
-- [Autor](#autor)
 
 ---
 
@@ -341,13 +340,4 @@ Po załadowaniu programu do **S7-PLCSIM** i przełączeniu w tryb RUN można pod
 - Dodanie wizualizacji HMI / SCADA
 - Sprzężenie magazynu z głównym sygnałem startu linii
 
-## Autor
 
-**<Imię i nazwisko>** – praca inżynierska, Politechnika Rzeszowska im. I. Łukasiewicza, Wydział Elektrotechniki i Informatyki, 2026.
-
-- GitHub: [@twoj-login](https://github.com/twoj-login)
-- Kontakt: *twoj@email.pl*
-
-## Licencja
-
-*Uzupełnij (np. MIT) lub usuń tę sekcję.*

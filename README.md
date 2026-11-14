@@ -333,7 +333,7 @@ Po załadowaniu programu do **S7-PLCSIM** i przełączeniu w tryb RUN można pod
 - **Sterowanie maszynami** – sterowanie binarne nie daje wymaganej dokładności; sterowanie analogowe (`REAL` + `MOVE`) umożliwiło precyzyjne pozycjonowanie manipulatora i układnicy.
 - **Logika sekwencyjna** – kaskady timerów TON i liczniki działają, ale tworzenie kodu bez wcześniejszego modelu formalnego (np. grafu automatu) zwiększa ryzyko błędów.
 
-## Możliwe usprawnienia
+## Możliwe rozszerzenie projektu
 
 - Indywidualne sterowanie każdą taśmą na podstawie lokalnych czujników (zamiast grupowego zasilania `%M2.2`) – lepsza efektywność energetyczna i żywotność napędów
 - Zamodelowanie sekwencji w formie grafu stanów (GRAFCET / SFC) przed implementacją

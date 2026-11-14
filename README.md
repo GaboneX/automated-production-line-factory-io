@@ -1,6 +1,6 @@
 # Zautomatyzowana linia produkcyjna – Factory I/O + TIA Portal + S7-PLCSIM
 
-Wirtualny model w pełni zautomatyzowanej linii produkcyjnej sterowanej wirtualnym sterownikiem **Siemens S7-1200**. Projekt powstał jako praca inżynierska (Politechnika Rzeszowska im. I. Łukasiewicza, Wydział Elektrotechniki i Informatyki, 2026) i demonstruje **wirtualny rozruch (virtual commissioning)** z użyciem cyfrowego bliźniaka linii.
+Wirtualny model w pełni zautomatyzowanej linii produkcyjnej sterowanej wirtualnym sterownikiem **Siemens S7-1200**.
 
 ![Widok ogólny linii](docs/images/line-overview.png)
 
